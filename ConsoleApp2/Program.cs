@@ -42,7 +42,7 @@ namespace Calculadora
                         (continuar) = false;
                         break;
                     default:
-                        Console.WriteLine("Opción inválida.");
+                        Console.WriteLine("Opción inválida.holaaa");
                         Console.ReadLine();
                         break;
                 }
